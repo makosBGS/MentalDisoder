@@ -3,6 +3,4140 @@
   "items": [
    {
       "kind": "blogger#post",
+      "id": "560842338136101388",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T08:06:00-08:00",
+      "updated": "2021-03-04T05:40:29-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/adjustment-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/560842338136101388",
+      "title": "Adjustment disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/560842338136101388/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjI5ODY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1393199304448583236",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T08:04:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/alcoholism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1393199304448583236",
+      "title": "Alcoholism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1393199304448583236/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwMDA5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1626531064567750569",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T08:03:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/alcoholic-hallucinosis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1626531064567750569",
+      "title": "Alcoholic hallucinosis",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1626531064567750569/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwMDk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5392129291199669801",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T08:02:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/alzheimer-disease.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5392129291199669801",
+      "title": "Alzheimer&#39;s disease",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5392129291199669801/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwMjAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2269406531677268480",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:57:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/amphetamine-dependence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2269406531677268480",
+      "title": "Amphetamine dependence",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2269406531677268480/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwMzEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "686668255536267498",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:56:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/anorexia-nervosa.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/686668255536267498",
+      "title": "Anorexia nervosa",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/686668255536267498/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwMzQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "273771291500041172",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:55:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/anterograde-amnesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/273771291500041172",
+      "title": "Anterograde amnesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/273771291500041172/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwMzk4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7265492347789886744",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:54:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/antisocial-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7265492347789886744",
+      "title": "Antisocial personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7265492347789886744/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNDQzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6870853568300801324",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:52:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/autism-spectrum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6870853568300801324",
+      "title": "autism spectrum",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6870853568300801324/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNTE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7289244737584772401",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:50:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/autophagia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7289244737584772401",
+      "title": "Autophagia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7289244737584772401/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNTk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5532088797261885684",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:49:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/avoidant-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5532088797261885684",
+      "title": "Avoidant personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5532088797261885684/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNjIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3895720477203298850",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:48:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/avoidantrestrictive-food-intake.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3895720477203298850",
+      "title": "Avoidant/restrictive food intake disorder (ARFID)",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3895720477203298850/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNjU2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6683687509770568811",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:47:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/binge-eating-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6683687509770568811",
+      "title": "Binge eating disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6683687509770568811/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNjk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7343010136077230587",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:45:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/body-dysmorphic-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7343010136077230587",
+      "title": "Body dysmorphic disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7343010136077230587/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNzQ3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3901757766577533018",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:44:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/borderline-intellectual-functioning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3901757766577533018",
+      "title": "Borderline intellectual functioning",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3901757766577533018/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwNzg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7842651677908208643",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:43:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/brief-psychotic-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7842651677908208643",
+      "title": "Brief psychotic disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7842651677908208643/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwODA5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1049171151859848756",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:41:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/caffeine-induced-sleep-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1049171151859848756",
+      "title": "Caffeine-induced sleep disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1049171151859848756/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwODM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1416853396476467146",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:29:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/caffeine-dependence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1416853396476467146",
+      "title": "Caffeine dependence",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1416853396476467146/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwODY3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2507172643428187427",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:28:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/cannabis-use-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2507172643428187427",
+      "title": "Cannabis use disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2507172643428187427/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwODk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6643468298685291098",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:26:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/capgras-delusion.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6643468298685291098",
+      "title": "Capgras delusion",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6643468298685291098/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwOTQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4437164892011867230",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:25:00-08:00",
+      "updated": "2021-03-04T05:40:30-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/catalepsy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4437164892011867230",
+      "title": "Catalepsy",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4437164892011867230/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMwOTc3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1581865028024480428",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:23:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/childhood-amnesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1581865028024480428",
+      "title": "Childhood amnesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1581865028024480428/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMDE5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6937029116694124221",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:21:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/childhood-disintegrative-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6937029116694124221",
+      "title": "Childhood disintegrative disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6937029116694124221/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMDcxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7833254836530508125",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:19:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/childhood-onset-fluency-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7833254836530508125",
+      "title": "Childhood onset fluency disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7833254836530508125/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMTIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "366753604432407438",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:17:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/child-neglect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/366753604432407438",
+      "title": "Child neglect",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/366753604432407438/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMTkxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "928666812817082273",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:13:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/circadian-rhythm-sleep-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/928666812817082273",
+      "title": "Circadian rhythm sleep disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/928666812817082273/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMjgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "735104897756127401",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:03:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/claustrophobia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/735104897756127401",
+      "title": "Claustrophobia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/735104897756127401/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMzIxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8681796305150144887",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T07:00:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/cocaine-dependence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8681796305150144887",
+      "title": "Cocaine dependence",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8681796305150144887/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMzYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8856957857246661057",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:58:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/cocaine-intoxication.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8856957857246661057",
+      "title": "Cocaine intoxication",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8856957857246661057/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxMzk3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6544110250842427166",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:54:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/cognitive-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6544110250842427166",
+      "title": "Cognitive disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6544110250842427166/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNDM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6811793378628129021",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:52:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/communication-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6811793378628129021",
+      "title": "communication disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6811793378628129021/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNDY2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1876149573025063367",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:51:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/conduct-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1876149573025063367",
+      "title": "Conduct disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1876149573025063367/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNTAwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6150810008846755014",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:48:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/conversion-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6150810008846755014",
+      "title": "Conversion disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6150810008846755014/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNTQ2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6853657494843056011",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:46:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/delusional-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6853657494843056011",
+      "title": "Delusional disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6853657494843056011/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNTkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7076286923113852642",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:45:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/delusional-parasitosis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7076286923113852642",
+      "title": "Delusional parasitosis",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7076286923113852642/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNjQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2340032657812427423",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:43:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/dependent-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2340032657812427423",
+      "title": "Dependent personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2340032657812427423/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNjg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3723744605148915905",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:41:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/depression.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3723744605148915905",
+      "title": "Depression",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3723744605148915905/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNzI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7133240150423626007",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:40:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/depressive-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7133240150423626007",
+      "title": "Depressive personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7133240150423626007/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNzY5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8689957002465660933",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:28:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/reading-disability.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8689957002465660933",
+      "title": "reading disability",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8689957002465660933/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxNzk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6912336524198512298",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:26:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/recurrent-brief-depression.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6912336524198512298",
+      "title": "Recurrent brief depression",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6912336524198512298/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxODI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7054335575228537244",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:25:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/relational-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7054335575228537244",
+      "title": "relational disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7054335575228537244/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxODU0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8758819078929878124",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:24:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/rem-behavior-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8758819078929878124",
+      "title": "REM behavior disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8758819078929878124/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxODg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8842697741404939317",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:22:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/restless-legs-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8842697741404939317",
+      "title": "Restless legs syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8842697741404939317/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxOTI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1971888554648599244",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:19:00-08:00",
+      "updated": "2021-03-04T05:40:31-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/retrograde-amnesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1971888554648599244",
+      "title": "Retrograde amnesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1971888554648599244/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMxOTgxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8065016794904818774",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:17:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/rett-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8065016794904818774",
+      "title": "Rett syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8065016794904818774/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMDMwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8450120701889669660",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:15:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/rumination-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8450120701889669660",
+      "title": "Rumination syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8450120701889669660/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMDg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5241349481277137734",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:13:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/roberts-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5241349481277137734",
+      "title": "Roberts syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5241349481277137734/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMTI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4868956394456538923",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-02T06:11:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/disinhibited-social-engagement.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4868956394456538923",
+      "title": "Disinhibited Social Engagement",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4868956394456538923/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMTYzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8973931521299951583",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:20:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/stress.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8973931521299951583",
+      "title": "Stress",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8973931521299951583/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMTk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1306763093351376525",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:18:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/fregoli-delusion.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1306763093351376525",
+      "title": "Fregoli delusion",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1306763093351376525/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMjQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6930681181370737607",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:16:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/hallucinogen-persisting-perception.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6930681181370737607",
+      "title": "Hallucinogen persisting perception disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6930681181370737607/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMjc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6239857159037516046",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:15:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/haltlose-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6239857159037516046",
+      "title": "Haltlose personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6239857159037516046/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMzIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8809555333832632808",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:14:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/histrionic-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8809555333832632808",
+      "title": "Histrionic personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8809555333832632808/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyMzgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3547519953281407178",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:12:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/compulsive-hoarding.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3547519953281407178",
+      "title": "Compulsive hoarding",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3547519953281407178/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNDI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8642740391456751143",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:10:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/hyposexuality.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8642740391456751143",
+      "title": "hyposexuality",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8642740391456751143/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNDY2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2540330622335555571",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:08:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/hypomania.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2540330622335555571",
+      "title": "Hypomania",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2540330622335555571/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNDk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2273546409180646475",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:07:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/enuresis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2273546409180646475",
+      "title": "Enuresis",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2273546409180646475/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNTM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3210304214290408229",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:06:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/hypochondriasis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3210304214290408229",
+      "title": "Hypochondriasis",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3210304214290408229/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNTcxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8751930771514810924",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:04:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/impulse-control-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8751930771514810924",
+      "title": "Impulse-control disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8751930771514810924/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNjAyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4776155952515677777",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:03:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/inhalants.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4776155952515677777",
+      "title": "Inhalants",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4776155952515677777/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNjQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1517225657827869138",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:01:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/down-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1517225657827869138",
+      "title": "Down syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1517225657827869138/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyNzUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5400842185109114922",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T21:00:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/encopresis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5400842185109114922",
+      "title": "Encopresis",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5400842185109114922/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyODM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5185325429695490905",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:58:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/intermittent-explosive-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5185325429695490905",
+      "title": "Intermittent explosive disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5185325429695490905/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyODY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6730301397517780875",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:57:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/video-game-addiction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6730301397517780875",
+      "title": "Video game addiction",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6730301397517780875/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyOTA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9075975765125735601",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:54:00-08:00",
+      "updated": "2021-03-04T05:40:32-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/kleptomania.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/9075975765125735601",
+      "title": "Kleptomania",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/9075975765125735601/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMyOTcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1185825637203977939",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:53:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/korsakoff-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1185825637203977939",
+      "title": "Korsakoff syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1185825637203977939/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMDAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7682775580289913793",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:52:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/lacunar-amnesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7682775580289913793",
+      "title": "Lacunar amnesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7682775580289913793/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMDMxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2641302282744165790",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:50:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/language-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2641302282744165790",
+      "title": "Language disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2641302282744165790/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMDUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1491372072028816805",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:44:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/learning-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1491372072028816805",
+      "title": "learning disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1491372072028816805/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMDg0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6131347924759291515",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:42:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/major-depressive-episode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6131347924759291515",
+      "title": "major depressive episode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6131347924759291515/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMTM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5380188411358231325",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T20:01:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/maladaptive-daydreaming.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5380188411358231325",
+      "title": "Maladaptive daydreaming",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5380188411358231325/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMTc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2693189881401579686",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T19:58:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/erectile-dysfunction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2693189881401579686",
+      "title": "Erectile dysfunction",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2693189881401579686/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMjEzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7552760606391017171",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T19:56:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/malingering.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7552760606391017171",
+      "title": "Malingering",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7552760606391017171/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMjYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6851190428598957555",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T19:55:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/melancholia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6851190428598957555",
+      "title": "Melancholia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6851190428598957555/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMjk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7106401756900402174",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T19:51:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/minor-depressive-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7106401756900402174",
+      "title": "Minor depressive disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7106401756900402174/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMzMxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6014932193203784053",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T19:48:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/misophonia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6014932193203784053",
+      "title": "Misophonia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6014932193203784053/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMzYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3386850251567783039",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T19:46:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/pathological-jealousy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3386850251567783039",
+      "title": "Pathological jealousy",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3386850251567783039/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzMzk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "253408151408433772",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T18:28:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/factitious-disorder-imposed-on-self.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/253408151408433772",
+      "title": "Factitious disorder imposed on self",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/253408151408433772/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzNDI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2782598635498035551",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T18:26:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/factitious-disorder-imposed-on-another.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2782598635498035551",
+      "title": "Factitious disorder imposed on another",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2782598635498035551/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzNDY5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5234757201847379564",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T18:24:00-08:00",
+      "updated": "2021-03-04T05:40:33-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/mixed-affective-state.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5234757201847379564",
+      "title": "mixed affective state",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5234757201847379564/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY1MjMzNTEzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1423792748033283985",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T17:11:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/narcolepsy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1423792748033283985",
+      "title": "Narcolepsy",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1423792748033283985/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5NDMwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7960435312165628453",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T17:10:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/neurodevelopmental-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7960435312165628453",
+      "title": "Neurodevelopmental disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7960435312165628453/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5NTMyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8795729960845585362",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T17:08:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/neuroleptics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8795729960845585362",
+      "title": "neuroleptics",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8795729960845585362/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5NjI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2124028219834069068",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T17:06:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/nicotine-dependence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2124028219834069068",
+      "title": "Nicotine dependence",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2124028219834069068/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5NzY3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "229119423328717633",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T17:03:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/nicotine-withdrawal.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/229119423328717633",
+      "title": "Nicotine withdrawal",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/229119423328717633/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5ODIxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8794850563487435832",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T17:01:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/night-eating-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8794850563487435832",
+      "title": "Night eating syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8794850563487435832/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5ODU3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4208801442107638868",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T17:00:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/disorder-of-written-expression.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4208801442107638868",
+      "title": "Disorder of written expression",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4208801442107638868/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5ODkxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3381986855896583430",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:51:00-08:00",
+      "updated": "2021-03-04T06:03:19-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/non-suicidal-self-injury.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3381986855896583430",
+      "title": "Non-suicidal self-injury",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3381986855896583430/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NTk5OTM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7705143837021450740",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:49:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/erotomania.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7705143837021450740",
+      "title": "Erotomania",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7705143837021450740/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMDE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1228951672976203162",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:47:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/excoriation-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1228951672976203162",
+      "title": "Excoriation disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1228951672976203162/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMDU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4531534477894649716",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:45:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/obsessive-love-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4531534477894649716",
+      "title": "Obsessive love disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4531534477894649716/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMTA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6721552532219114416",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:44:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/oneirophrenia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6721552532219114416",
+      "title": "Oneirophrenia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6721552532219114416/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMTM4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4798496305805502398",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:42:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/psychogenic-amnesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4798496305805502398",
+      "title": "Psychogenic amnesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4798496305805502398/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3442556112570440753",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:40:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/opioid-use-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3442556112570440753",
+      "title": "Opioid use disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3442556112570440753/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMjMxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5130810996516109263",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:38:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/oppositional-defiant-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5130810996516109263",
+      "title": "Oppositional defiant disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5130810996516109263/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMzE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "182792403892435143",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:37:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/orthorexia-nervosa.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/182792403892435143",
+      "title": "Orthorexia nervosa",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/182792403892435143/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMzUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3524665449575267428",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:36:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/other-specified-dissociative-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3524665449575267428",
+      "title": "Other specified dissociative disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3524665449575267428/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwMzgxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7502972624810410675",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:34:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/other-specified-feeding-or-eating.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7502972624810410675",
+      "title": "Other specified feeding or eating disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7502972624810410675/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwNDExCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5158329128419713781",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:33:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/pain-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5158329128419713781",
+      "title": "Pain disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5158329128419713781/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwNDQyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7855771305332451037",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:32:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/dyslexia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7855771305332451037",
+      "title": "Dyslexia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7855771305332451037/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwNDg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "449398998747493858",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:30:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/paranoid-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/449398998747493858",
+      "title": "Paranoid personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/449398998747493858/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwNTQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "547207592994721580",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:28:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/parasomnias.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/547207592994721580",
+      "title": "Parasomnias",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/547207592994721580/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwNTg0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5329207601584350188",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:25:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/parkinson-disease.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5329207601584350188",
+      "title": "Parkinson&#39;s disease",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5329207601584350188/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwNjU3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2491253764797885720",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:22:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/partialism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2491253764797885720",
+      "title": "Partialism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2491253764797885720/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwNzgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5482411382901400294",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:14:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/negativistic-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5482411382901400294",
+      "title": "Negativistic personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5482411382901400294/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwODA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1909605752791193980",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:13:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/pathological-gambilng.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1909605752791193980",
+      "title": "pathological gambilng",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1909605752791193980/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwODQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8207986883499623851",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:09:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/pedophilia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8207986883499623851",
+      "title": "Pedophilia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8207986883499623851/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwODk4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7069656911205424560",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:07:00-08:00",
+      "updated": "2021-03-04T06:03:20-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/perfectionism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7069656911205424560",
+      "title": "Perfectionism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7069656911205424560/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAwOTYzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2179521359640919378",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:05:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/persecutory-delusions.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2179521359640919378",
+      "title": "Persecutory delusions",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2179521359640919378/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMDA5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8514421041576360407",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T16:03:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/complicated-grief-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8514421041576360407",
+      "title": "complicated grief disorder ",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8514421041576360407/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMDQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "785931191345510816",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T15:58:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/frotteurism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/785931191345510816",
+      "title": "Frotteurism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/785931191345510816/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMDcyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4990821352573942900",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T15:56:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/personality-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4990821352573942900",
+      "title": "Personality disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4990821352573942900/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMTI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8785545819089001661",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T15:53:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/pervasive-developmental-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8785545819089001661",
+      "title": "pervasive developmental disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8785545819089001661/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMjE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5033967544894177091",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T15:52:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/pervasive-developmental-disorder-not.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5033967544894177091",
+      "title": "pervasive developmental disorder not otherwise specified",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5033967544894177091/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMjUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4932098099893188139",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T07:29:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/phencyclidine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4932098099893188139",
+      "title": "Phencyclidine",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4932098099893188139/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMjk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1879310813565459782",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T07:27:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/phobia-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1879310813565459782",
+      "title": "phobia (disorder)",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1879310813565459782/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxMzc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8051606737083758835",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T07:25:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/speech-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8051606737083758835",
+      "title": "Speech disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8051606737083758835/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNDM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8125385765323798045",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T07:24:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/physical-abuse.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8125385765323798045",
+      "title": "Physical abuse",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8125385765323798045/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNDY3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4905726052506329376",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-03-01T07:22:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/03/pica.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4905726052506329376",
+      "title": "Pica",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4905726052506329376/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNTAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5413097749880197786",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T05:04:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/postpartum-depression.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5413097749880197786",
+      "title": "Postpartum depression",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5413097749880197786/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNTU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3293701251237559409",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T05:02:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/posttraumatic-embitterment-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3293701251237559409",
+      "title": "posttraumatic embitterment disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3293701251237559409/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNjI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1234881264205725332",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T05:01:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/exhibitionism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1234881264205725332",
+      "title": "Exhibitionism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1234881264205725332/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNjY4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "110367400991492681",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:46:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/premature-ejaculation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/110367400991492681",
+      "title": "Premature ejaculation",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/110367400991492681/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNzMxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8240187906504338427",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:44:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/premenstrual-dysphoric-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8240187906504338427",
+      "title": "Premenstrual dysphoric disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8240187906504338427/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxNzgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2773405085349422826",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:43:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/idiopathic-hypersomnia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2773405085349422826",
+      "title": "Idiopathic hypersomnia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2773405085349422826/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxODM4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2272665905926615853",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:41:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/pathological-lying.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2272665905926615853",
+      "title": "Pathological lying",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/2272665905926615853/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxODgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8454247195256288738",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:40:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/psychogenic-amnesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8454247195256288738",
+      "title": "Psychogenic amnesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8454247195256288738/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxOTIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "122638810537591943",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:39:00-08:00",
+      "updated": "2021-03-04T06:03:21-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/psychosis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/122638810537591943",
+      "title": "Psychosis",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/122638810537591943/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAxOTc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3706765092877385668",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:37:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/pyromania.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3706765092877385668",
+      "title": "Pyromania",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3706765092877385668/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyMDYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7408949874437234493",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:33:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/sadistic-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7408949874437234493",
+      "title": "Sadistic personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7408949874437234493/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyMTA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9125965535560087323",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:32:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/schizoid-personality.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/9125965535560087323",
+      "title": "Schizoid personality",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/9125965535560087323/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyMTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4768906827140604270",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:30:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/schizophrenia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4768906827140604270",
+      "title": "Schizophrenia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4768906827140604270/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyMzIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8026120050086107292",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:27:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/schizophreniform-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8026120050086107292",
+      "title": "Schizophreniform disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8026120050086107292/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNDM2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5772231229116597618",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:09:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/schizotypal-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5772231229116597618",
+      "title": "Schizotypal personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5772231229116597618/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNDczCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "674189971155262106",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:08:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/seasonal-affective-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/674189971155262106",
+      "title": "Seasonal affective disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/674189971155262106/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNTIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5256304961956634742",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:05:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/selective-mutism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5256304961956634742",
+      "title": "Selective mutism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5256304961956634742/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3462814535308320702",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:04:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/self-defeating-personality-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3462814535308320702",
+      "title": "Self-defeating personality disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/3462814535308320702/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNjA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1738842469742982731",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:03:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/separation-anxiety-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1738842469742982731",
+      "title": "Separation anxiety disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1738842469742982731/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNjQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7592081431159922934",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T04:01:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/folie-deux.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7592081431159922934",
+      "title": "Folie à deux",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7592081431159922934/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNzAyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7471496152923125370",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:23:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/sleep-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7471496152923125370",
+      "title": "sleep disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7471496152923125370/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyNzUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8404560295752270509",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:21:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/sleep-terror.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8404560295752270509",
+      "title": "sleep terror",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8404560295752270509/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyODExCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "688047884973602459",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:19:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/disruptive-mood-dysregulation-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/688047884973602459",
+      "title": "Disruptive mood dysregulation disorder ",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/688047884973602459/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyODUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1499415043437349181",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:17:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/female-sexual-arousal-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1499415043437349181",
+      "title": "Female sexual arousal disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1499415043437349181/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyODkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "879206385603706342",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:16:00-08:00",
+      "updated": "2021-03-04T06:03:22-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/social-anxiety-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/879206385603706342",
+      "title": "Social anxiety disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/879206385603706342/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAyOTMyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6333278057768575137",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:14:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/psychopathy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6333278057768575137",
+      "title": "Psychopathy",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/6333278057768575137/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzMDk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7645756923931473418",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:10:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/somatic-symptom-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7645756923931473418",
+      "title": "somatic symptom disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7645756923931473418/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzMTc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7116418521306819439",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:08:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/ganser-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7116418521306819439",
+      "title": "Ganser syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7116418521306819439/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzMjEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8725266553110205757",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:07:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/stereotypic-movement-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8725266553110205757",
+      "title": "Stereotypic movement disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8725266553110205757/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzMjQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1495636821491256580",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:06:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/stockholm-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1495636821491256580",
+      "title": "Stockholm syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1495636821491256580/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzMjczCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7121082358092191124",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:04:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/substance-related-disorders.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7121082358092191124",
+      "title": "Substance-related disorders",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7121082358092191124/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzMzE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4058494707930358528",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:03:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/tardive-dyskinesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4058494707930358528",
+      "title": "Tardive dyskinesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4058494707930358528/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzMzQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4602248933452238228",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T03:01:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/tourette-syndrome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4602248933452238228",
+      "title": "Tourette syndrome",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/4602248933452238228/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNDEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8389554962543026676",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T02:59:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/transient-global-amnesia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8389554962543026676",
+      "title": "Transient global amnesia",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8389554962543026676/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNTE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5588409116385590792",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T02:57:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/transvestic-fetishism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5588409116385590792",
+      "title": "Transvestic fetishism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/5588409116385590792/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNTU3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1903579712755911002",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T02:56:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/trichotillomania.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1903579712755911002",
+      "title": "Trichotillomania",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/1903579712755911002/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNTk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7711902863748442388",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T02:54:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/the-truman-show-delusion.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7711902863748442388",
+      "title": "The Truman Show delusion",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7711902863748442388/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNjUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "958420521013125829",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T02:52:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/somatization-disorder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/958420521013125829",
+      "title": "Somatization disorder",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/958420521013125829/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNjg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8974516024352409226",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T02:51:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/vaginismus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8974516024352409226",
+      "title": "Vaginismus",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8974516024352409226/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNzI0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7971953593445515353",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-02-28T02:49:00-08:00",
+      "updated": "2021-03-04T06:03:23-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/02/voyeurism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7971953593445515353",
+      "title": "Voyeurism",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/7971953593445515353/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE0ODY2NjAzNzY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
       "id": "8866936102719157454",
       "blog": {
         "id": "2412937785519279976"
